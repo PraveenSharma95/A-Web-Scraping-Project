@@ -1,0 +1,498 @@
+Name,I1,N1,I2,N2,I3,N3,I4,N4,I5,N5,I6,N6,I7,N7,I8,N8,I9,N9,I10,N10,I11,N11,I12,N12,I13,N13,I14,N14,I15,N15,I16,N16,I17,I18,N18,I19,N19,I20,N20
+ADEL 17 Glautaract Drop,Aurum chloratum,97,Cynara scolymus,278,Dulcamara,297,Euphrasia,319,Glonoinum,368,Hedera helix,403,Ruta graveolens,693,Tabacum,785,blood vessels,134,eyes,327,mucous membranes,543,lymph,516,bones,138,and joints,55,carbohydrate,193,,#N/A,,,#N/A,,#N/A,,#N/A
+ADEL 18 Glucorect Drop,Acidum Lacticum,9,Acidum Sulfuricum,13,Allium Cepa,30,Chionanthus Virginica,216,Phosphorus,611,Zincum Sulfuricum,872,Stigmata Maydis,766,Syzygium Cumini,783,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+ADEL 2 Apo-Ham Drop,Acidum nitricum,10,Aesculus hippocastanum,20,Anacardium,40,Collinsonia canad,239,Ignatia,433,Melilotus officinalis,526,Sedum acre,716,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+ADEL 21 Proscenat Drop,Acidum sulfuricum,13,Conium,244,Staphysagria,762,Cantharis,187,Selenium,717,Nasturtium aquaticum,554,Ononis spinosa,595,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+ADEL 26 Oss-Regen Drop,Acidum phosphoricum,12,Galipea officinalis,349,Asa foetida,91,Bellis perennis,118,Bryonia cretica,152,Equisetum arvense,311,Galipea officinalis,349,Guajacum,380,Ruta graveolens,693,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+ADEL 27 Inflamyar Drop,Guajacum 6X,381,neuralgia,573,neuritis,575,tendonitis,789,pulling pain,637,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+ADEL 39 Apo-Sciatica Drop,Guajacum 6X,381,hypertonia,427,calf cramps,181,angina pectoris,68,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+ADEL 44 Venorbis Drop,Sulphur 12X,774,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+ADEL 48 Itires Drop,Echinacea 6X,303,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+ADEL 55 Tinal Spondylitis Drop,Bryonia 6x,150,Cimicifuga 4x,221,Dulcamara 8x,298,Glechoma 6x,367,Helleborus 10x,404,Kalmia 8x,481,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+ADEL 57 Specl-Chol Digestion Drop,Phosphorus 12x,612,amylases (carbohydrates),39,sleepy,738,dry mucous,295,mental exhaustions,528,gastritis,354,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+ADEL 6 Apo-Strum Drop,Conium 12X,245,Crataegus 4X,259,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+ADEL 7 Apo-Tuss Drop,Bryonia 6X,150,Gelsemium 6X,358,bronchitis,146,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+ADEL 82 Hepat Liver Tonic Drop,Boldo,136,Bryonia,148,Carduus mar,198,Cynara MT,277,Fumaria,348,Hydrastis,420,Taraxacum MT,787,Chelidonium,209,Obesity,587,diabetes,286,enabling detoxification,309,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+ADEL 9 Cri-Regen Drop,Cynara scolymus,278,Graphits,377,Natrium carbonicum,555,Sarothamnus scoparius,704,Thalium aceticum,794,Ustaligo maydis,838,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+ADEL Aalserum. Mother Tincture Q,kidney,484,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+ADEL Merc Sol Dilution 30 CH,e.g. camphor,301,garlic,351,onion,593,coffee,236,hing,412,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+ADEL Syzygium Jambolanum Mother Tincture Q,Syzgium Jambolanum,782,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Adven Naturals Face Wash with ABC+ Neem and Tulsi,Aloevera,34,Berberis Aquifolium,122,Calendula,176,Neem,572,Tulsi,828,whiteheads,862,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Allen A02 Anti Fungal Drop,Zincum metallicum,871,Echinacea angustifolia,304,Sulphur iodatum,777,Tellurium,788,Treats earache,817,dermatitis,285,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Allen A08 Diabetes Drop,Heloniasdioica 3x,406,emaciation,308,great thirst,378,diabetic ulceration,287,restlessness,667,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Allen A19 Joint Pains Drop,Bryonia alba,151,Acidumsulphuricum,16,Rhustoxicodendron,679,Causticum,202,Rutagraveolens,695,muscular pains,547,sciatica pains,712,Cure rheumatism,268,stiffness,765,lame,489,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Allen A21 Leucoderma Drop,Hydrocotyle asiatica,423,Myristica sebifera,551,Arsenicum album,85,Natrum muriaticum,561,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Allen A53 Alopecia Drop,Alfalfa 3x,27,Jaborandi 3x,459,Lycopodium 3x,513,Weisbaden 3x,860,eczema,305,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Allen A82 Premature Greying Of Hair Drop,Weisbaden 3x,860,Psorinum 3x,635,Mezereum 3x,535,Staphysagria 3x,763,ThujaOccidentalis 3x,804,Silicea 3x,728,SarracemaPurpurea 3x,705,ZincumMetallicum 3x,873,eczema,305,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Allen A87 Creatinine & Blood Urea Drop,Arsenicum album,85,Apis mellifica,75,Chimaphila umbellate,212,Clematis recta,231,Equisetum hyemale,312,Lycopodium clavatum,515,Sepia,722,Serum anguilae,723,Metabolic disturbances,532,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Allen Gastropep Digestive Tonic,gastralgia,353,indigestion,442,heart burn,400,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Allen Snorid Drop,Arsenicum album,85,Belladonna,116,Bryonia alba,151,Drosera rotundifolia,293,Camphora,185,Hydrastis canadensis,422,Cistus canadensis,228,Ephedra vulgaris,310,Echinacea angustifolia,304,Histaminum hydrochloricum,414,Ignatia amara,434,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,,#N/A,,#N/A,,#N/A
+Allen's Arnica Plus (Hair Vitalizer 100 Ml+ Triofer 50 Tablets) Kit,Arnica Montana,82,Aloe socotrina,32,Amloki,37,Haritaki,390,Nicotinum,577,Nyctanthes arbortristis,585,Resorcin,666,Jaborandi,458,Thea chin,796,anaemia etc,42,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Allen's Triofer Homoeo Hair & Care Tablet,Carbo vegetabilis,192,Ferrum metallicum,334,Magnesium phosphoricum,520,Kalium phosphoricum,477,Calcarea phosphorica,165,Natrum phosphoricum,564,Ferrum phosphoricum,336,Lycopodium clavatum,515,Cinchona officinalis,224,stomach troubles,768,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bahola Corn Paint,Acidum aceticum,6,Kreosotum Q,487,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson B63 Kidney Drop,Helonias dioica,405,Kalium arsenicosum,472,Phosphorus,611,Plumbum metallicum,622,proteinuria,632,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's AC#4 Tablet,Calcareasulph 6x,167,Rhustox 30x,677,Arsenicumalb 30x,87,Natrumsulph 3x,569,Sulphur 30x,775,Treats baldness,814,itching,456,skin scales,736,itching,456,burning,155,swellings,779,oedema,589,eruption,313,papular,602,dry,294,rough,689,scaly,,#N/A,,#N/A,,#N/A
+Bakson's AC#9 Tablet,Lycopodium 3x,513,Jaborandi 3x,459,Cantharis 3x,188,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's AC#9 Tablet,Lycopodium 3x,513,Jaborandi 3x,459,Cantharis 3x,188,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's Aloevera Calendula Cream,Water,856,Ipm,451,Cetyl Palmitate,208,Stearic Acid,764,Micro Wax,536,Butyl Stearate,157,Cetyl Alcohol,207,Borax,139,Fragrance,345,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's Aloevera Calendula Cream,Water,856,Ipm,451,Cetyl Palmitate,208,Stearic Acid,764,Micro Wax,536,Butyl Stearate,157,Cetyl Alcohol,207,Borax,139,Fragrance,345,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's Arnica Shampoo,Arnica,81,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's Arnica Shampoo,Arnica,81,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's Biocombination 19 Tablet,Ferrum phosphoricum,336,Magnesium phosphoricum,520,Kali sulphuricum,469,Natrum sulphuricum,566,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's Calcarea Fluorica Biochemic Tablet 12X,cataracts,199,varicose veins,840,and gumboils,51,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's Calcarea Fluorica Biochemic Tablet 6X,cataracts,199,varicose veins,840,and gumboils,51,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's Calcarea Fluorica Biochemic Tablet 6X,Calcarea Fluorica,162,uterine problems,839,children,211,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's Calcarea Fluorica Biochemic Tablet 6X,cataracts,199,varicose veins,840,and gumboils,51,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's Calcarea Fluorica Biochemic Tablet 6X,Calcarea Fluorica,162,uterine problems,839,children,211,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's Calcarea Fluorica Biochemic Tablet 6X,cataracts,199,varicose veins,840,and gumboils,51,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's Calcarea Fluorica Biochemic Tablet 6X,Calcarea Fluorica,162,uterine problems,839,children,211,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's Compound # 5 Pain Joints Tablet,Cimicifuga 3x,220,swollen,780,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's Gastro Aid Syrup,Natrum phos.,563,Robinia pseudo,684,Capsicum ann.,191,Acidum Sulph,14,Phosphorus,611,belching,114,flatulence,341,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's Hair Aid Drop Dual Pack (30ml Each),Acidum phosphoricum,12,Lycopodim Clavatum,511,Jaborandi,458,Natrum Muriaticum,561,Alcohol content,23,alopecia,35,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's Hair Color Dark Brown Sachet,Arnica,81,Jaborandi,458,Henna,407,Shikakai,725,Bhringaraj,126,Jaborandi,458,Shikakai,725,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's Homoeopathic Formula 'D' Tablet,twice daily,830,once daily,592,once daily,592,twice daily,830,twice daily,830,once daily,592,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's Homoeopathic Formula 'D' Tablet,twice daily,830,once daily,592,once daily,592,twice daily,830,twice daily,830,once daily,592,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's Mig Aid Tablet,Cimicifugarac. 3x,222,Gelsemiumsemp. 3x,360,Spigeliaanthel. 3x,756,Natrummur. 3x,567,Ferrumphos. 3x,337,exertion,324,fatigue,329,stress,769,eye strain,325,climate change,232,depression,283,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's Mig Aid Tablet,Cimicifugarac. 3x,222,Gelsemiumsemp. 3x,360,Spigeliaanthel. 3x,756,Natrummur. 3x,567,Ferrumphos. 3x,337,exertion,324,fatigue,329,stress,769,eye strain,325,climate change,232,depression,283,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's Nail & Hair Aid Tablet,Calcium Carbonate,171,Inositol,448,Lecithin,495,Vitamin A,848,E,300,D,279,C,158,B12,103,B21,104,Bioperine,129,Folic Acid,342,Bioton 30mcg,130,MPS,541,Talc,786,Magnesium stearate,521,healthy body,399,,,#N/A,,#N/A,,#N/A
+Bakson's Natrum Muriaticum Biochemic Tablet 12X,clear,230,transparent,811,watery secretions,858,influenza,445,headache,392,the blood,795,liver,506,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's Natrum Muriaticum Biochemic Tablet 3X,clear,230,transparent,811,watery secretions,858,influenza,445,headache,392,the blood,795,liver,506,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's Natrum Muriaticum Biochemic Tablet 6X,clear,230,transparent,811,watery secretions,858,influenza,445,headache,392,the blood,795,liver,506,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's Rheum Aid Oil,Arnica Montana,82,Cantharis,187,Gaultheria Procumbens,356,Methyl Salicylate,534,Non-greasy formula,580,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's Rheum Aid Tablet,Calcarea phos,164,Ferrum phos,335,Kali. phos,471,Natrum phos,562,Magnesium phos,519,Berberis vulg,124,Causticum,202,Rhododendron chrys,673,Rhus tox,674,muscular weakness,548,calves,182,and soles,61,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's Rheum Aid Tablet,Calcarea phos,164,Ferrum phos,335,Kali. phos,471,Natrum phos,562,Magnesium phos,519,Berberis vulg,124,Causticum,202,Rhododendron chrys,673,Rhus tox,674,muscular weakness,548,calves,182,and soles,61,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's Spondy Aid Drop,stiffness,765,nausea,571,giddiness,362,"and weakness""",66,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's Sunny Herbals Shaving Cream,Aloevera,34,Calendula,176,Neem,572,Lemon,499,Stearic acid,764,Caustic potash,201,Myristic acid,550,Glycerine,372,Sorbitol,753,Liquid perfume,503,Lanolin anthydrous,491,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's Thuja Ointment,Thuja occidentalis,801,Alcohol,22,verrucas,844,variola,841,Removes polyps,664,corns,253,brown spots,147,polyps,625,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's Tonsil Aid Tablet,Kali. mur.,470,Belladonna,116,Baryta carbonica,111,Ferrum phos,335,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's Vitamin D Plus Capsule,B,102,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bakson's Vitamin D Plus Tablet,Calcium,170,Vitamin D,850,bone pain,137,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bjain Berberis Aquifolium Mother Tincture Q,Soothes itchy,752,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bjain Cephalandra Indica Mother Tincture Q,Cephalandra Indica,206,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bjain Chelidonium Majus Mother Tincture Q,Chelidonium majus,210,halitosis,385,drink,291,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bjain Ginkgo Biloba Mother Tincture Q,Ginkgo biloba,363,conjunctivitis,247,otitis media,598,glossitis,369,tonsillitis,809,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bjain Omeo Allergy Tablet,Ferrum phosphoricum,336,Natrum muriaticum,561,Kali sulphuricum,469,Kali muriaticum,465,runny nose,692,runny nose,692,sneezing,741,and itching,54,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Bjain Syzygium Jambolanum Mother Tincture Q,Syzgium Jambolanum,782,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Boericke and Tafel Anti-Dandruff Oil,Arnica montana,82,Azadirachta Indica,99,Lavendula,493,Cardiospermum,197,Cochlearia,233,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Boericke and Tafel Anti-Dandruff Shampoo,Lavendula,493,Saponaria,703,Urtica dioica,835,seborrhoeic dermatitis,715,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Boericke and Tafel Arnica Shampoo,hair,384,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Boericke and Tafel Arnica Shampoo,hair,384,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Boericke and Tafel Arnica Shampoo,hair,384,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Boericke and Tafel Arnica Shampoo,hair,384,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Boericke and Tafel Calendula & Aloe Vera Multipurpose Cream,Calendula extract,177,rejuvenating,654,healing,394,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Boericke and Tafel Hair Growth Oil,Arnica montana,82,Jaborandi,458,Sabal serrulata,697,Olive oil,591,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Boericke and Tafel Zauberol Premium Hair Oil,Arnica montana,82,Jaborandi,458,Thuja orientalis,802,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Batra's Dandruff Cleansing Shampoo,Purified Water,638,Glycerine,372,Thuja Extract,800,Niacinamide,576,Sodium Hydroxide,744,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Acidum Nitricum Dilution 30 CH,Acidum Nitricum,10,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Aconitum Napellus Dilution 30 CH,Ethanol,318,fear,330,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Alfalfa Mother Tincture Q,Alfalfa,25,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Alfalfa Tonic For Children,Alfalfa 1.0%,26,China 0.25%,214,Cinnamomum 0.5%,227,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Alpha - NC Tablet,Hydrastis canadensis,422,Echinacea angustifolia,304,Cinnabaris,226,Kalium bochromium,474,Baryta muriatica,112,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Alpha-Coff Cough Syrup,Senega 3.0%,720,In case,439,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Alpha-Liv Liver Tonic,and vomiting,63,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Alpha-Liv Liver Tonic,and vomiting,63,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Andrographis Paniculata Mother Tincture Q,liver,506,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Argentum Nitricum Dilution 30 CH,Argentum Nitricum,79,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Arsenicum Album Dilution 200 CH,swelling,778,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Arsenicum Album Dilution 30 CH,swelling,778,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Azadirachta Indica Mother Tincture Q,scars,710,blackheads,132,fever,338,ascaris,92,and asthma,45,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Bacopa Monnieri Mother Tincture Q,backache,105,hoarseness,415,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Baryta Iodata Dilution 30 CH,Barium,108,Iodine,450,anger,67,Mononucleosis,539,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Berberis Aquifolium Mother Tincture Q,Soothes itchy,752,psoriasis,633,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Bio-Combination 25 (BC 25) Tablet,Natrum phosphoricum,564,Natrum sulphuricum,566,Silicea,727,after eating,21,rumbling,690,and pressure,58,with acidity,866,Bilious vomiting,128,acid dyspepsia,5,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Bio-Combination 28 (BC 28) Tablet,Calcarea fluorica,162,Calcarea phosphorica,165,Calcarea sulphurica,166,Ferrum phosphoricum,336,Kalium muriaticum,476,Kalium phosphoricum,477,Kalum sulphuricum,482,Magnesia phosphorica,518,Natrum muriaticum,561,Natrum phosphoricum,564,Natrum sulphuricum,566,Silicea,727,ear,302,nose,581,onion,593,hing,412,mint,camphor,184,,#N/A,,#N/A
+Dr Willmar Schwabe India Bryonia Alba Dilution 200 CH,coryza,254,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Bryonia Alba Dilution 30 CH,coryza,254,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Calcarea Fluorica Biochemic Tablet 6X,uterine problems,839,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Crocus Sativus Mother Tincture Q,Crocus sativus,263,Alcohol,22,Relieves flatulence,658,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Dizester Digestive Tonic Sugar Free,digestive,288,deranged digestion,284,infantile colic,443,nausea,571,constipation,248,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Ginseng Mother Tincture Q,itching,456,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Ginseng MT Tablet 1X,Lowers cholesterol,508,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Histaminum Hydrochloricum Dilution 200 CH,asthma,94,bronchitis,146,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Histaminum Hydrochloricum Dilution 30 CH,asthma,94,bronchitis,146,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Hydrastis Canadensis Mother Tincture Q,Hydrastis canadensis,422,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Justicia Adhatoda Mother Tincture Q,Justicia Adhatoda,462,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Kali Bichromicum Dilution 30 CH,Bichromicum,127,larynx,492,bronchi,145,yellowish,869,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Lycopodium Clavatum Dilution 200 CH,garlic,351,onion,593,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Lycopodium Clavatum Dilution 30 CH,garlic,351,onion,593,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Nuphar Lutea Mother Tincture Q,Has hypotensive,391,antispasmodic,72,cardiac,196,boils,135,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Nux Vomica Dilution 200 CH,Nux Vomica,584,cold,237,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Nux Vomica Dilution 30 CH,Nux Vomica,584,cold,237,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Onosmodium Virginianum Dilution 30 CH,hing,412,onion,593,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Phytolacca Berry Mother Tincture Q,Phytolacca Berry,614,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Plantago Major Mother Tincture Q,Plantago,619,gastritis,354,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Rauwolfia Serpentina Mother Tincture Q,Rauvolfia Serpentina,642,mood swings,540,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Sabal Serrulata Mother Tincture Q,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Symphytum Officinale Mother Tincture Q,Symphytum Officinale,781,contusions,251,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Thuja Occidentalis Dilution 1000 CH,Thuja Occidentalis,801,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Thuja Occidentalis Dilution 200 CH,Thuja Occidentalis,801,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Thyroidinum Trituration Tablet 3X,Thyroidinum 3X,807,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Thyroidinum Trituration Tablet 6X,Thyroidinum 3X,807,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Tribulus Terrestris Mother Tincture Q,Tribulus Terrestris,826,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Urtica Urens Mother Tincture Q,Urtica Urens,836,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr Willmar Schwabe India Zauber Hair Drop,hair,384,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Aalserum Dilution 30 CH,kidney,484,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Aconitum Napellus Dilution 200 CH,Ethanol,318,fear,330,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Aconitum Napellus Dilution 30 CH,Ethanol,318,fear,330,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Allium Cepa Dilution 30 CH,skin,733,throat,798,and bladder,47,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Allium Sativum Mother Tincture Q,Garlic,351,Alcohol,22,Relieves cough,655,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Arsenicum Album 200 CH Dilution,wheezing,861,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Arsenicum Album 30 CH Dilution,wheezing,861,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Bacopa Monnieri (Brahmi) Mother Tincture Q,backache,105,hoarseness,415,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Baryta Carb Dilution 200 CH,confusion,242,language difficulties,490,hiccoughs,411,and eructation,49,is improved,455,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Berberis Aquif Mother Tincture Q,Soothes itchy,752,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Bio-Combination 10 (BC 10) Tablet,Calcarea phosphorica,165,Kalium muriaticum,476,Ferrum phosphoricum,336,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Bio-Combination 11 (BC 11) Tablet,Ferrum phosphoricum,336,Kali muriaticum,465,Kali sulphuricum,469,Natrum muriaticum,561,Natrum sulphuricum,566,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Bio-Combination 12 (BC 12) Tablet,Ferrum phosphoricum,336,Natrum muriaticum,561,Kalium phosphoricum,477,Magnesia phosphorica,518,congestion,243,over exertion,599,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Bio-Combination 19 (BC 19) Tablet,Ferrum phosphoricum,336,Kalium phosphoricum,477,Natrum sulphuricum,566,Magnesia phosphorica,518,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Bio-Combination 20 (BC 20) Tablet,Calcarea Fluorica,162,Calcarea Sulphurica,166,Natrum Muriaticum,561,Kalium Sulphuricum,478,Natrum Sulphuricum,566,papular eruptions,603,ringworm,682,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Bio-Combination 21 (BC 21) Tablet,Calcarea Phosphorica,165,Ferrum Phosphoricum,336,low-grade fever,509,irritability,454,and biting,46,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Bio-Combination 28 (BC 28) Tablet,Calcarea fluorica,162,Calcarea phosphorica,165,Calcarea sulphurica,166,Ferrum phosphoricum,336,Kalium muriaticum,476,Kalium phosphoricum,477,Kalum sulphuricum,482,Magnesia phosphorica,518,Natrum muriaticum,561,Natrum phosphoricum,564,Natrum sulphuricum,566,Silicea,727,ear,302,nose,581,onion,593,hing,412,mint,camphor,184,,#N/A,,#N/A
+Dr. Reckeweg Bryonia Alba Dilution 200 CH,coryza,254,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Bryonia Alba Dilution 30 CH,coryza,254,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Calc Fluor Dilution 30 CH,uterine problems,839,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Cantharis Dilution 200 CH,In females,440,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Cantharis Dilution 30 CH,In females,440,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Carbo Veg Dilution 200 CH,Relieves flatulence,658,gangrenes,350,Reduces pain,649,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Carbo Veg Dilution 30 CH,Relieves flatulence,658,gangrenes,350,Reduces pain,649,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Causticum Dilution 200 CH,Natrum causticum,558,Alcohol,22,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Causticum Dilution 30 CH,Natrum causticum,558,Alcohol,22,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Chelidonium Maj Mother Tincture Q,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Colocynthis Dilution 200 CH,Ethanol,318,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Colocynthis Dilution 30 CH,Ethanol,318,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Crataegus Mother Tincture Q,Treats arteriosclerosis,813,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Damiana Mother Tincture Q,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Ferrum Phosphoricum Biochemic Tablet 6X,Ferrum Phosphoricum,336,Alcohol,22,dental work,282,injury,447,menses,527,etc,316,Relieves coughing,656,In women,441,Relieves fever,657,cough,255,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Gelsemium Sempervirens Dilution 30 CH,Natural Minerals,570,Gelsemium Sempervirens,359,Lactose,488,Sucrose,771,heavy eyelids,402,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Ginseng Mother Tincture Q,debility,281,sciatica,711,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Guaiacum Mother Tincture Q,stiffness,765,stiffness,765,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Hamamelis V Dilution 30 CH,Hamamelis Virginica,387,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Hamamelis Virg Mother Tincture Q,Hamamelis Virginica,387,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Hepar Sulphur Dilution 200 CH,Apis mellifica,75,Calcium sulphide,175,Calcarea hypophosphorosa,163,Echinacea angustifolia,304,Silica,726,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Hepar Sulphur Dilution 30 CH,Apis mellifica,75,Calcium sulphide,175,Calcarea hypophosphorosa,163,Echinacea angustifolia,304,Silica,726,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Hydrangea Mother Tincture Q,Hydrangea Arborescens,419,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Hypericum Per Dilution 200 CH,Treats hyperhydrosis,819,Reduces nervousness,648,Relieves headache,659,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Ignatia Amara Dilution 200 CH,hysterical vomiting,431,camphor,184,etc.,317,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Kalmegh Mother Tincture Q,or talk,596,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Lycopodium Dilution 1000 CH,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Lycopodium Dilution 200 CH,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Lycopodium Dilution 30 CH,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Natrum Mur Dilution 30 CH,Natrum Muriaticum,561,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Natrum Phosphoricum Biochemic Tablet 6X,hyperacidity,424,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Nuphar Luteum Mother Tincture Q,Nuphar Lutea,583,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Nux Vomica Dilution 10M CH,cold,237,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Nux Vomica Dilution 200 CH,cold,237,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Nux Vomica Dilution 30 CH,cold,237,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Phosphorus Dilution 30 CH,Phosphorous Dilution,610,pneumonia,623,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Phytolacca Berry Mother Tincture Q,Phytolacca Berry,614,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Podophyllum Peltatum Dilution 30 CH,Podophyllinum,624,hing,412,garlic,351,onion etc.,594,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Pothos Foetida Mother Tincture Q,Lactose,488,Ethanol,318,Water,856,Cures headaches,273,Cures asthma,270,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg R1 Inflammation Drop,Apis melifica,74,Barium chloratum,109,Belladona,115,Calcium jodatum,173,Hepar sulfuris,409,Kalium bichromicum,473,Marum verum,525,Phytolacca,613,mucous membranes,543,and glands,50,pharyngeal cavity,609,and pharynx,57,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg R11 Rheumatism Drop,Berberis,120,Calcium phosphoricum,174,Causticum Hahnemanni,204,Rhododendron,671,Rhus toxicodendron,676,rigid,681,tendons,790,muscles,546,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg R14 Nerve And Sleep Drop,However,417,light sleep,502,sleeplessness,737,Neurasthenia,574,nightmares,578,neurasthenia,574,hypochondria,428,and sedative,60,Thereupon,797,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg R16 Migraine and Neuralgia Drop,Cimicifuga,219,Gelsemium,357,Iris,452,Sanguinaria,701,Spigelia,755,Allievates vomiting,29,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg R17 Glandular Enlargement Drop,Acidum lacticum,9,Naja tripudians,553,Scrophularia nodosa,713,mucous membrane,542,scales,707,and warts,65,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg R19 Glandular Drops for Men,Glandulae suprarenales,366,Hypophysis,429,Testis,792,Thyreoidinum,805,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg R23 Eczema Drop,Apis mellifica,75,Arsen. Alb.,84,Rhus Tox.,675,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg R3 Heart Drop,suffocation,772,painful spasms,601,hypotension,430,If not,432,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg R30 Universal Ointment,Atropinum,95,Calendula,176,Echinacea Angustifolia,304,Hamamelis,386,Millefolium,537,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg R46 Rheumatism Of Forearms And Hands Drop,Ferrum phosphoricum,336,Lithium carbonicum,505,Nux vomica,584,Natrium sulfuricum,557,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg R53 Acne Vulgaris And Pimples Drop,Hepar sulfur,408,Ledum,496,Juglans,461,Natrium chloratum,556,psoriasis,633,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg R57 Pulmonary Tonic,Arsenum Jodatum,88,Calcium Carbonicum,172,Hahnemanni,383,Lycopodium,512,Silicea,727,Teucrium scorodonia,793,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg R6 Influenza Drop,cold,237,headaches,393,piercing pains,616,hollow cough,416,low pulse,507,sleeplessness,737,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg R65 Psoriasis Drop,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg R70 Neuralgia Drop,Cedron,205,Colocynthis,240,Kalmia,480,Verbascum,843,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg R73 Joint Pain Drop,Acidum sulfuricum,13,Argentum,77,Arnica,81,Bryonia,148,Causticum Hahnemann,203,Ledum,496,Relieves swollen,662,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg R78 Eye Care Drop,Aconitum,18,Euphrasia,319,Belladonna,116,Hamamelis,386,Kalium carbonicum,475,Mercurius bijodatus,531,ulcerous cornea,831,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg R89 Hair Care Drop,Hypophysis,429,Juglans,461,Kalium phosphoricum,477,Polysorbatum,627,Testes,791,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Rauwolfia Serp Mother Tincture Q,Rauvolfia Serpentina,642,mood swings,540,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Rauwolfia Serp Mother Tincture Q,Rauvolfia Serpentina,642,mood swings,540,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Rhododendron Dilution 30 CH,Ethanol,318,Water,856,arms,80,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Robinia Pseu Dilution 30 CH,Robinia Pseudocacia,685,nausea,571,frontal headache.,346,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Rosmarinus Off Dilution 30 CH,Rosemary Officianalis,687,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Selenium Dilution 200 CH,Selenium Dilution,718,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Selenium Trituration Tablet 3X,Selenium Dilution,718,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Sepia Dilution 30 CH,Sepia,722,anxiety,73,mood swings,540,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Silicea Dilution 200,Silicon dioxide,729,Ethanol,318,Water,856,Cures dryness,271,itching,456,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Silicea Dilution 30 CH,Silicon dioxide,729,Ethanol,318,Water,856,Cures dryness,271,itching,456,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Sulphur Dilution 30 CH,Absolute alcohol,3,Cures eczema,272,dry,294,scaly,708,Reduces acidity,646,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Symphytum Officinale Mother Tincture Q,Ethanol,318,Water,856,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Testes Siccati Trituration Tablet 3X,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Thuja Occ Dilution 1000 CH,Thuja Occidentalis,801,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Thuja Occ Dilution 200 CH,Thuja Occidentalis,801,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Thuja Occ Dilution 30 CH,Thuja Occidentalis,801,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Thuja Occi Mother Tincture Q,Thuja Occidentalis,801,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Tribulus Terr Mother Tincture Q,Tribulus Terrestris,826,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Urtica Urens Mother Tincture Q,Urtica Urens,836,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Wiesbaden Dilution 200 CH,Wiesbaden Dilution,864,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Wiesbaden Dilution 30 CH,Wiesbaden Dilution,864,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. Reckeweg Yohimbinum Mother Tincture Q,Yohimbinum,870,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Dr. S.C.Deb's Rheumalin Forte Tablet with Calcium Supplement Tablet,Lithium Carbonate,504,Kali Bromatum,464,Kali Phosphoricum,468,Magnesia Phosphorica,518,Ferrum Phosphoricum,336,Natrum Salicy,565,Calcarea Carbonica,161,Arnica Montana,82,Ledum Palustre,498,Rhus Toxicodendron,676,Belladonna,116,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Fourrts Douglas Cream,Graphites,375,kali Ars,463,Sulphur,773,Borax,139,Urea,834,Balsam peru,107,Eczema,305,and Pruritus,59,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Fourrts Gum Forte Gel Homoeopathic Toothpaste,Plantago Q,620,Kreosotum Q,487,Calendula Q,180,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Fourrts Rubor Gel,Arnica,81,Cantharis,187,Gaultheria,355,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Hapdco Aqui Plus Cream,Thuja Occidentalis,801,Berberis Aqui,121,Calendula Offi,178,Ledum Pal,497,Hydrastis Can,421,Carcuma Longa,195,Treats dermatosis,815,psoriasis,633,warts,855,damaged skin,280,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Hapdco Calendula Plus Lotion,Calendula officinalis,179,Azadirachtaindica (Neem),101,Echinacea angustifolia,304,Myristicasebifera,552,Berberis aquifolium,122,itchy skin,457,rashes,641,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Hapdco Marks Go Cream,Curcuma longa,265,Rosa centifolia,686,Ocimum sanctum,588,Citrus medica,229,Azadirachtaindica,100,Santalum album,702,Aloe vera,33,Crocus sativus,263,Triticumsativum,827,Cream base,262,marks,524,burn marks,154,stretch marks,770,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Hapdco Reumacon Pain Killer Oil,Methyl salicylate,534,Arnica montana,82,Cantharis,187,Mentholum,530,Rhustoxicodendron,679,Camphora andcerifera,186,Treats numbness,823,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Hapdco Rheumacon Pain Relief Oil,Arnica Montana,82,Cantharis,187,Rhus Toxicodendron,676,Camphoa,183,Mentholum,530,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Hapdco Rheumacon Pain Relief Oil,Arnica Montana,82,Cantharis,187,Rhus Toxicodendron,676,Camphoa,183,Mentholum,530,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Haslab Mamira Eye Drop,Acidum Boracicum,7,Natrum Muraticum,560,Natrum Sulphuricum,566,Camphora,185,Euphrasia Officialis,321,Coptis Teeta,252,Berberine,119,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+LDD Bioscience Orthonip,Glucosamine,370,Curcumin,266,Boswellia,141,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Lord's Vitamin E-Glow Tablet,Vitamin E,851,Vitamin C,849,Aloe vera,33,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Medisynth Aqui Folium Cream,Thuja occidentalis,801,pimples,618,blackhead,131,and vulgaris,64,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Medisynth Nasaltone Oral Drop,NatrumMuriaticum 30,568,SinapisNigra 30,731,Controls allergy,250,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Medisynth Soriafit Cream,Calendula Officinalis,179,Echinacea Angustifolia,304,HamamelisVirginica,388,Reduces redness,651,yeast infection,868,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Medisynth Wartex Cream,hyperkeratosis,426,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Medisynth Wartex Forte Drop,Causticum,202,ThujaOccidentails,803,AntimoniumCrudum,71,plantar warts,621,flat warts,340,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+New Life NL-2 Blood Urea Creatinin Drop,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+New Life NL-3 Blood Cholestrol Drop,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Ralson Remedies Remepile Drop,Graphities 8X,376,Sulphur 5x,776,Lycopodium 5x,514,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+REPL Dr. Advice No.70 Nodules Drop,Calcerea Carb,169,Calc Fl.,160,Kali Ars,463,Fucus Ves.,347,Phytolacca Decandra,615,Conium Maculatum,246,softening,748,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Rxhomeo Arsenicum Album 30C Pellets,eczema,305,vesicles,845,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Rxhomeo Arsenicum Album Pellets 200C,eczema,305,vesicles,845,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Rxhomeo Carbo Vegetabilis Pellets 200C,cold breath,238,carbuncles,194,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Rxhomeo Rhus Toxicodendron Pellets 200C,rheumatism,669,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Abrotanum Dilution 30 CH,mental fatigue,529,health anxiety,398,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Acid Chryso Ointment,dry,294,rough,689,scaly skin,709,soles,749,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Aconitum Napellus Dilution 30 CH,Ethanol,318,fear,330,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Aletris Farinosa Mother Tincture Q,Ethanol,318,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Alfalfa Malt Energy Stimulant Delicious Chocolate,Alfalfa Q,28,Ginseng Q,365,anaemic patients,43,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Alfalfa Malt Energy Stimulant Delicious Chocolate,Alfalfa Q,28,Ginseng Q,365,anaemic patients,43,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Alfalfa Tonic with Ginseng,Alfalfa,25,Avena Sativa,98,Ginseng,364,China,213,Hydrastis Can,421,Kali Phos,467,Kali Ars,463,Ferrum Aceticum,333,Calcarea Phos,164,sciatica,711,weakness,859,and headache,52,slow digestion,739,poor digestion,628,calves,182,and soles,61,onion,hing,412,mint,538,camphor,184
+SBL Alfalfa Tonic with Ginseng,Alfalfa,25,Avena Sativa,98,Ginseng,364,China,213,Hydrastis Can,421,Kali Phos,467,Kali Ars,463,Ferrum Aceticum,333,Calcarea Phos,164,sciatica,711,weakness,859,and headache,52,slow digestion,739,poor digestion,628,calves,182,and soles,61,onion,hing,412,mint,538,camphor,184
+SBL Alfalfa Tonic with Ginseng Sugar Free,Alfalfa,25,Avena Sativa,98,Ginseng,364,Cinchona Officinalis,224,Hydrastis Canadensis,422,Kalium Phosphoricum,477,Kalium Arsenicosum,472,Ferrum Aceticum,333,Calcaria Phosphorica,168,weakness,859,emaciation,308,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Allium Cepa Dilution 200 CH,skin,733,throat,798,and bladder,47,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Allium Cepa Dilution 30 CH,skin,733,throat,798,and bladder,47,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Allium Sativum Mother Tincture Q,Garlic,351,Alcohol,22,Relieves cough,655,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Alumina Dilution 200 CH,In females,440,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Ammi Visnaga Cream,Ammivisnaga,38,genitals,361,vitiligo,852,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Andrographis Paniculata Mother Tincture Q,liver,506,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Anti-Dandruff Shampoo,Reetha,653,Tulsi,828,Shikakai,725,Henna,407,Neem,572,Lemon,499,Rosemary oil,688,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Apis Mellifica Dilution 30 CH,coffee,236,camphor,184,etc,316,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Arnica Montana Dilution 1000 CH,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Arnica Montana Dilution 200 CH,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Arnica Montana Dilution 30 CH,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Arnica Montana Dilution 6 CH,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Arnica Montana Herbal Shampoo With Conditioner,Arnica,81,Jaborandi,458,Calendula,176,Dimethiconol,289,Polyquaternium-7,626,Cocodiethanolamide,235,smooth,740,silky,730,use regularly,837,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Arnica Montana Herbal Shampoo with TJC,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Arnica Montana Herbal Shampoo with TJC,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Arnica Ointment,Arnica,81,sprains,761,soreness,754,muscle,545,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Arsenicum Album Dilution 30 CH,wheezing,861,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL AT-Tabs Ant- Traumatic Tablet,Arnica montana,82,Hypericum perforatum,425,Ledum palustre,498,Rhus toxicodendron,676,Ruta graveolens,693,Symphytum officinale,781,Bellis perennis,118,dry place,296,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Azadirachta Indica Mother Tincture Q,scars,710,blackheads,132,fever,338,ascaris,92,and asthma,45,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Bacillinum Dilution 200 CH,garlic,351,onion,593,coffee,236,hing,412,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Baryta Carbonicum Dilution 200 CH,confusion,242,language difficulties,490,hiccoughs,411,and eructation,49,is improved,455,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Baryta Carbonicum Dilution 30 CH,confusion,242,language difficulties,490,hiccoughs,411,and eructation,49,is improved,455,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Berberis Aquifolium Dilution 30 CH,Soothes itchy,752,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Berberis Aquifolium Gel,Berberisaquifolium,125,Sandalwood,700,Turmeric,829,acne,17,pimples,618,skin darkening,734,Attains fair,96,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Berberis Aquifolium Mother Tincture Q,burning,155,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Berberis Vulgaris Mother Tincture Q,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Bio-Combination 1 Tablet,Calcarea phosphorica,165,Ferrum phosphoricum,336,Natrum muriaticum,561,Kalium phosphoricum,477,itching,456,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Bio-Combination 10 Tablet,Calcarea phosphorica,165,Ferrum phosphoricum,336,Kalium muriaticum,476,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Bio-Combination 11 Tablet,Ferrum phosphoricum,336,Kali muriaticum,465,Kali sulphuricum,469,Natrum muriaticum,561,Natrum sulphuricum,566,runny,691,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Bio-Combination 12 Tablet,Ferrum phosphoricum,336,Natrum muriaticum,561,Kalium phosphoricum,477,Magnesia phosphorica,518,congestion,243,over exertion,599,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Bio-Combination 15 Tablet,Calcarea phosphorica,165,Ferrum phosphoricum,336,Kalium phosphoricum,477,Magnesia phosphorica,518,Kalium sulphuricum,478,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Bio-Combination 16 Tablet,Calcarea phosphorica,165,Ferrum phosphoricum,336,Kalium phosphoricum,477,Magnesium phosphoricum,520,Natrum muriaticum,561,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Bio-Combination 17 Tablet,Calcarea fluorica,162,Kalium phosphoricum,477,Ferrum phosphoricum,336,Kalium muriaticum,476,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Bio-Combination 19 Tablet,Ferrum phosphoricum,336,Magnesia phosphorica,518,Kalium sulphuricum,478,Natrum sulphuricum,566,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Bio-Combination 2 Tablet,Kalium phosphoricum,477,Magnesia phosphorica,518,Natrum muriaticum,561,Natrum sulphuricum,566,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Bio-Combination 20 Tablet,Calcarea fluorica,162,Calcarea sulphurica,166,Natrum muriaticum,561,Kalium sulphuricum,478,Natrum sulphuricum,566,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Bio-Combination 21 Tablet,Calcarea phosphorica,165,Ferrum phosphoricum,336,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Bio-Combination 23 Tablet,Ferrum phosphoricum,336,Calcarea fluorica,162,Magnesia phosphorica,518,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Bio-Combination 25 Tablet,Natrum phosphoricum,564,Natrum sulphuricum,566,Silicea,727,acid dyspepsia,5,For adults,343,For children,344,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Bio-Combination 26 Tablet,Magnesia phosphorica,518,Calcarea phosphorica,165,Kalium phosphoricum,477,Calcarea fluorica,162,Nymphomania,586,with aching,865,pressing,630,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Bio-Combination 27 Tablet,Calcarea Phosphorica,165,Kalium Phosphoricum,477,Natrum Muriaticum,561,Keep\\xa0away\\xa0from\\xa0the\\xa0direct\\xa0sunlight,483,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Bio-Combination 28 Tablet,Calcarea fluorica,162,Calcarea phosphorica,165,Calcarea sulphurica,166,Ferrum phosphoricum,336,Kalium muriaticum,476,Kalium phosphoricum,477,Kalum sulphuricum,482,Magnesia phosphorica,518,Natrum muriaticum,561,Natrum phosphoricum,564,Natrum sulphuricum,566,Silicea,727,ear,302,nose,581,onion,593,hing,412,mint,camphor,184,,#N/A,,#N/A
+SBL Bio-Combination 5 Tablet,Ferrum phosphoricum,336,Kalium muriaticum,476,Natrum muriaticum,561,Kalium sulphuricum,478,nose,581,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Bio-Combination 6 Tablet,Ferrum phosphoricum,336,Kalium muriaticum,476,Magnesia phosphorica,518,Natrum muriaticum,561,Natrum sulphuricum,566,For adults,343,For children,344,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Borax Dilution 200 CH,Boric acid,140,Ethanol,318,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Borax Dilution 30 CH,Boric acid,140,Ethanol,318,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Bryonia Alba Dilution 200 CH,coryza,254,excessive thirst,323,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Bryonia Alba Dilution 30 CH,coryza,254,excessive thirst,323,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Bryonia Alba Mother Tincture Q,coryza,254,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Calcarea Fluorica Biochemic Tablet 12X,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Calcarea Fluorica Biochemic Tablet 200X,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Calcarea Fluorica Biochemic Tablet 30X,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Calcarea Fluorica Biochemic Tablet 3X,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Calcarea Fluorica Biochemic Tablet 6X,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Calcarea Fluoricum Dilution 200 CH,uterine problems,839,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Calcarea Fluoricum Dilution 30 CH,uterine problems,839,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Calcarea Phosphorica Biochemic Tablet 12X,puberty,636,arthritic pains,89,hip joints,413,For adults,343,For children,344,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Calcarea Phosphorica Biochemic Tablet 3X,puberty,636,arthritic pains,89,hip joints,413,For adults,343,For children,344,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Calcarea Phosphorica Biochemic Tablet 6X,puberty,636,arthritic pains,89,hip joints,413,For adults,343,For children,344,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Calotropis Gigantea Mother Tincture Q,garlic,351,onion,593,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Cantharis Dilution 30 CH,In females,440,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Cantharis Mother Tincture Q,In females,440,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Cantharis Ointment,Cantharis MT,189,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Carbo Vegetabilis Dilution 30 CH,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Causticum Dilution 200 CH,Natrum causticum,558,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Causticum Dilution 30 CH,Natrum causticum,558,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Chelidonium Majus Mother Tincture Q,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Cineraria Maritima 10% Eye Drop,Cineraria maritima,225,Glycerinum,373,Aqua Distilled,76,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Cineraria Maritima Euphrasia Eye Drop,Cineraria Maritima,225,Euphrasia Officinalis,322,Calendula Officinalis,179,Kali Muriaticum,465,Calcarea Fluorica,162,Magnesia Carbonica,517,Silicea,727,Boric acid,140,and conjunctivitis,48,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Cineraria Maritima Euphrasia Eye Drop,Cineraria Maritima,225,Euphrasia Officinalis,322,Calendula Officinalis,179,Kali Muriaticum,465,Calcarea Fluorica,162,Magnesia Carbonica,517,Silicea,727,Boric acid,140,and conjunctivitis,48,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Cineraria Maritima Eye Drops Free From Alcohol,Cineraria maritima,225,Glycerinum,373,Aqua distilled,76,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Cochlearia Armoracia Mother Tincture Q,Cochlearia armoracia,234,Alcohol,22,Relieves swelling,661,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Coffea Cruda Dilution 200 CH,alcohol,22,recreational drugs,644,garlic,351,onion,593,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Colchicum Dilution 30 CH,sharp,724,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Colocynthis Dilution 200 CH,ColocynthisEthanol,241,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Colocynthis Dilution 30 CH,ColocynthisEthanol,241,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Crataegus Oxyacantha Q Mother Tincture,Treats arteriosclerosis,813,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Curcuma Longa Mother Tincture Q,itching,456,garlic,351,onion,593,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Dibonil Drop,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Dibonil Tablet,Crataegus oxyacantha,260,Cuprum arsenicosum,264,Acidum phosphoricum,12,Syzygium jambolanum,784,Cephalandra indica,206,Gymnema sylvestre,382,Uranium nitricum,833,emaciation,308,great thirst,378,restlessness,667,and melancholia,56,bones,138,periosteum,607,dry place,296,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Dibonil Tablet,Crataegus oxyacantha,260,Cuprum arsenicosum,264,Acidum phosphoricum,12,Syzygium jambolanum,784,Cephalandra indica,206,Gymnema sylvestre,382,Uranium nitricum,833,emaciation,308,great thirst,378,restlessness,667,and melancholia,56,bones,138,periosteum,607,dry place,296,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Drops No. 1 (For Hair Care),Arnica Montana,82,Acidum Phosphoricum,12,Lycopodium Clavatum,515,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Drops No. 4 (For BP),Rauvolfia serpentine,643,Crataegusoxyacantha,261,Veratrumviride,842,Arnica montana,82,Kallphosphoricum,479,Viscum album,847,Passifloraincarnata,605,Cactus grandiflorus,159,Alcohol,22,irregular,453,feeble,331,intermittent pulse,449,onion,593,hing,412,mint,538,camphor,184,garlic etc.,,#N/A,,#N/A,,#N/A
+SBL Drops No. 8 ( For Allergic Rhinitis),Allium Cepa,30,Euphrasia officinalis,322,Sabadilla,696,Solidago Vir,750,watery coryza,857,red eyelids,645,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Euphrasia Officinalis Dilution 30 CH,In females,440,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Ferrum Metallicum Dilution 30 CH,vomiting,853,In women,441,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Ferrum Phosphoricum Biochemic Tablet 12X,Ferrum Phosphoricum,336,Alcohol,22,dental work,282,injury,447,menses,527,etc,316,Relieves coughing,656,In women,441,Relieves fever,657,cough,255,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Ferrum Phosphoricum Biochemic Tablet 3X,Ferrum Phosphoricum,336,Alcohol,22,dental work,282,injury,447,menses,527,etc,316,Relieves coughing,656,In women,441,Relieves fever,657,cough,255,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Ferrum Phosphoricum Biochemic Tablet 6X,Ferrum Phosphoricum,336,Alcohol,22,dental work,282,injury,447,menses,527,etc,316,Relieves coughing,656,In women,441,Relieves fever,657,cough,255,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Ferrum Picricum Trituration Tablet 3X,garlic,351,onion,593,coffee,236,hing,412,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Gelsemium Sempervirens Dilution 200 CH,Natural Minerals,570,Gelsemium Sempervirens,359,Lactose,488,Sucrose,771,heavy eyelids,402,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Gelsemium Sempervirens Dilution 30 CH,Natural Minerals,570,Gelsemium Sempervirens,359,Lactose,488,Sucrose,771,heavy eyelids,402,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Glowing Beauty Fairness Cream,Calendula,176,Heartwood,401,Thuja,799,Berberis,120,Aloevera,34,Improves complexion,436,acne,17,scars,710,Reduces dryness,647,Treats injuries,820,skin diseases,735,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Gnaphalium Polycephalum Dilution 200 CH,garlic,351,onion,593,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Gnaphalium Polycephalum Dilution 30 CH,garlic,351,onion,593,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Graphites Ointment,Graphites,375,Dermatitis,285,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Grindelia Robusta Mother Tincture Q,Grindelia Robusta,379,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Guaiacum Mother Tincture Q,stiffness,765,stiffness,765,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Guatteria Gaumeri Mother Tincture Q,abdominal distention,1,etc,316,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Hamamelis Virginica Dilution 200 CH,Hamamelis Virginica,387,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Hamamelis Virginica Dilution 30 CH,Hamamelis Virginica,387,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Hamamelis Virginica Mother Tincture Q,Hamamelis Virginica,387,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Homeocal Tablet,Silicea 3x,728,backache,105,backache,105,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Homeocal Tablet,Silicea 3x,728,backache,105,backache,105,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Hydrangea Arborescens Mother Tincture Q,Hydrangea Arborescens,419,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Hydrocotyle Asiatica Mother Tincture Q,skin diseases,735,dropsy,292,elephantiasis,306,leprosy,500,Improves memory,437,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Hypericum Perforatum Dilution 200 CH,Treats hyperhydrosis,819,Reduces nervousness,648,Relieves headache,659,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Hypericum Perforatum Dilution 30 CH,Treats hyperhydrosis,819,Reduces nervousness,648,Relieves headache,659,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Hypericum Perforatum Mother Tincture Q,Treats hyperhydrosis,819,Reduces nervousness,648,Relieves headache,659,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Ignatia Amara Dilution 200 CH,hysterical vomiting,431,camphor,184,etc.,317,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Insulinum Dilution 200 CH,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Insulinum Dilution 30 CH,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Jaborandi Hair Oil,smooth,740,silky,730,bring shine,144,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Jaborandi Mother Tincture Q,dry place,296,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Jaborandi Plus Hair Oil,Perfume,606,smooth,740,silky,730,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Jaborandi Plus Hair Oil,Perfume,606,smooth,740,silky,730,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Justicia Adhatoda Dilution 1000 CH,Justicia Adhatoda,462,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Justicia Adhatoda Dilution 30 CH,Justicia Adhatoda,462,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Justicia Adhatoda Mother Tincture Q,Justicia Adhatoda,462,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Kali Bichromicum Dilution 200 CH,violent sneezes,846,especially fat,315,chubby babies,218,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Kali Muriaticum Biochemic Tablet 6X,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Kali Nitricum Dilution 30 CH,Kali Nitricum,466,In women,441,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Kali Phosphoricum Biochemic Tablet 12X,anxiety,73,For adults,343,For children,344,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Kali Phosphoricum Biochemic Tablet 30X,anxiety,73,For adults,343,For children,344,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Kali Phosphoricum Biochemic Tablet 6X,anxiety,73,For adults,343,For children,344,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Kali Sulphurica Biochemic Tablet 6X,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Kreosotum Dilution 30 CH,Kreosotum,486,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Lachesis Dilution 200 CH,garlic,351,onion,593,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Lemna Minor Mother Tincture Q,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Lobelia Inflata Mother Tincture Q,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Lycopodium Clavatum Dilution 1000 CH,Lycopodium Clavatum,515,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Lycopodium Clavatum Dilution 200 CH,Lycopodium Clavatum,515,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Lycopodium Clavatum Dilution 30 CH,Lycopodium Clavatum,515,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Lycopodium Clavatum Mother Tincture Q,Lycopodium Clavatum,515,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Magnesia Phosphorica Biochemic Tablet 12X,Blood corpuscles,133,muscles,546,brain,143,spinal marrow,757,Reduces pains,650,cramps,258,For adults,343,For children,344,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Magnesia Phosphorica Biochemic Tablet 6X,Blood corpuscles,133,muscles,546,brain,143,spinal marrow,757,Reduces pains,650,cramps,258,For adults,343,For children,344,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Medorrhinum Dilution 1000 CH,garlic,351,onion,593,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Medorrhinum Dilution 200 CH,garlic,351,onion,593,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Mercurius Solubilis Dilution 200 CH,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Mercurius Solubilis Dilution 30 CH,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Natrum Muriaticum Biochemic Tablet 6X,Natrum Muriaticum,561,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Natrum Muriaticum Dilution 30 CH,Natrum Muriaticum,561,vomiting\\xa0and diarrhoea,854,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Natrum Muriaticum Dilution 6 CH,Natrum Muriaticum,561,vomiting\\xa0and diarrhoea,854,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Natrum Phosphoricum Biochemic Tablet 12X,Relieves heartburn,660,hyperacidity,424,indigestion,442,coffee,236,camphor,184,etc.,317,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Natrum Phosphoricum Biochemic Tablet 6X,Relieves heartburn,660,hyperacidity,424,indigestion,442,coffee,236,camphor,184,etc.,317,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Nuphar Lutea Mother Tincture Q,Nuphar Lutea,583,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Nux Vomica Dilution 200 CH,Elevates mood,307,cold,237,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Nux Vomica Dilution 30 CH,Elevates mood,307,cold,237,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Nux Vomica Mother Tincture Q,Nux Vomica,584,cold,237,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Ocimum Sanctum Mother Tincture Q,acne,17,ringworm infections,683,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Onosmodium Virginianum Dilution 30 CH,False Gromwell,328,Alcohol,22,Water,856,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Osteo Arthritic Nosode Dilution 200 CH,muscles,546,ligament,501,osteoarthritis,597,rheumatoid arthritis,670,psoriatic arthritis,634,ankylosing spondylitis,70,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Paeonia Officianalis Mother Tincture Q,Paeonia Officinalis,600,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Petroleum Cream,Petroleum,608,Heals dryness,396,itching,456,constricted,249,sensitive,721,leathery skin,494,Heals rough,397,cracked,256,fissured fingers,339,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Petroleum Dilution 200 CH,Alcohol,22,eyelid inflammation,326,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Petroleum Dilution 30 CH,Alcohol,22,eyelid inflammation,326,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Phosphorus Dilution 30 CH,Phosphorous Dilution,610,pneumonia,623,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Physostigma Venenosum Dilution 30 CH,garlic,351,onion,593,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Pimplex Tablet,Arsenicum iodatum,86,Nux vomica,584,Berberis aquifolium,122,Echinacea angustifolia,304,Asterias rubens,93,dry place,296,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Plantago Major Mother Tincture Q,Plantago,619,gastritis,354,sinuses,732,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Pothos Foetidus Mother Tincture Q,Pothos Foetidus,629,Treats\\xa0headaches,825,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Rhus Toxicodendron Dilution 1000 CH,Rhus Toxicodendron,676,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Rhus Toxicodendron Dilution 200 CH,Rhus Toxicodendron,676,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Rhus Toxicodendron Dilution 30 CH,Rhus Toxicodendron,676,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Rhus Toxicodendron Mother Tincture Q,Rhus Toxicodendron,676,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Robinia Pseudacacia Dilution 30 CH,Robinia Pseudocacia,685,nausea,571,frontal headache.,346,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Robinia Pseudacacia Dilution 6 CH,Robinia Pseudocacia,685,nausea,571,frontal headache.,346,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Rumex Crispus Dilution 30 CH,Ethanol,318,Water,856,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Ruta Graveolens Dilution 30 CH,Ruta Graveolens,693,knees,485,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Ruta Graveolens Mother Tincture Q,Ruta Graveolens,693,sprained ankle,760,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Sabal Serrulata Dilution 30 CH,Sabal Serrulata,697,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Sabina Mother Tincture Q,Sabina,698,garlic,351,onion,593,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Sarracenia Purpurea Dilution 1000 CH,swelling,778,and soreness,62,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Scalptone Tablet,Badiaga 3x,106,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Scutellareia Mother Tincture Q,Scutellaria,714,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Selenium Dilution 200 CH,Selenium Dilution,718,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Selenium Dilution 30 CH,Selenium Dilution,718,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Senega Mother Tincture Q,Senega,719,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Sepia Dilution 200 CH,Sepia,722,anxiety,73,mood swings,540,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Sepia Dilution 30 CH,Sepia,722,anxiety,73,mood swings,540,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Sepia Dilution 6 CH,Sepia,722,anxiety,73,mood swings,540,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Serum Anguillae (Eel Serum) Dilution 30 CH,Anguillae,69,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Silicea Biochemic Tablet 12X,Silicon dioxide,729,Ethanol,318,Water,856,Cures dryness,271,itching,456,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Silicea Biochemic Tablet 6X,Silicon dioxide,729,Ethanol,318,Water,856,Cures dryness,271,itching,456,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Silicea Dilution 1000 CH,Silicon dioxide,729,Ethanol,318,Water,856,Cures dryness,271,itching,456,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Silicea Dilution 200 CH,Silicon dioxide,729,Ethanol,318,Water,856,Cures dryness,271,itching,456,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Silicea Dilution 30 CH,Silicon dioxide,729,Ethanol,318,Water,856,Cures dryness,271,itching,456,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Silk N Stay Anti Acne Berberis Soap,Sodium cocoate,743,Sodium stearate,747,Propylene glycol,631,Sucrose,771,Sodium laurethsulfate,745,Glycerin,371,Sodium chloride,742,Fragrance,345,Calendula extract,177,Berberis extract,123,Disodium edta,290,Remove scars,663,Improves complexion,436,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Silk N Stay Antiseptic Calendula Soap,Sodium palmate,746,Perfume,606,Titanium dioxide,808,Remove scars,663,acne,17,Improves complexion,436,Heals,395,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Solidago Virgaurea Mother Tincture Q,Solidago Virgaurea,751,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Spigelia Anthelmia Dilution 30 CH,Ethanol,318,Water,856,Cures vertigo,276,Reduces toothache,652,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Spongia Tosta Dilution 200 CH,Ethanol,318,Water,856,Treats goitre,818,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Spongia Tosta Dilution 30 CH,Ethanol,318,Water,856,Treats goitre,818,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Staphysagria Dilution 200 CH,Improves tonsillitis,438,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Staphysagria Mother Tincture Q,Satphysagria Seeds,706,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Sulphur Dilution 200 CH,Absolute alcohol,3,burning,155,and inflammation,53,feet,332,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Sulphur Ointment,Treats dry,816,scaly,708,unhealthy skin,832,Treats itching,821,burning,155,pustules,640,rhagades,668,hang-nails,389,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Syzygium Jambolanum Mother Tincture Q,onion,593,hing,412,mint,538,camphor,184,garlic etc.,352,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Syzygium Jambolanum Trituration Tablet 1X,Syzgium Jambolanum,782,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Tellurium Dilution 30 CH,Tellurium,788,pimple eruptions,617,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Teucrium Marum Verum Dilution 30 CH,hing,412,garlic,351,onion,593,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Thuja Gel,hair,384,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Thuja Occidentalis Dilution 1000 C,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Thuja Occidentalis Dilution 200 CH,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Thuja Occidentalis Dilution 30 CH,onion,593,hing,412,mint,538,camphor,184,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Thuja Occidentalis Mother Tincture Q,Thuja Occidentalis,801,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Thuja Ointment,Abort variola,2,pustule,639,eruptions,314,Cures polyps,274,corns,253,brown spots,147,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Thuja Roll-On,Paraffin andLanoin),604,eruptions,314,corns,253,brown spots,147,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Thyroidinum Dilution 30 CH,Thyroidinium,806,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Thyroidinum Trituration Tablet 6X,Thyroidinium,806,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Titanium Dilution 30 CH,Metal Titanium,533,Treats lupus,822,chronic rhinitis,217,impaired vision,435,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Tribulus Terrestris Mother Tincture Q,Tribulus Terrestris,826,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Urtica Urens Mother Tincture Q,Urtica Urens,836,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Vertefine Drop,Bryonia 3x,149,Cimicifuga 3x,220,Rhustoxicodendron 6x,680,spondylosis,758,sacroiliac arthritis,699,buttocks,156,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Withania S (Ashwagandha) Dilution 30 CH,Withania Somnifera,867,weakness,859,anaemia,41,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Withania Somnifera Mother Tincture Q,Withania Somnifera,867,weakness,859,anaemia,41,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+SBL Yohimbinum Mother Tincture Q,Yohimbinum,870,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Wheezal Arnica Hair N Scalp Anti-Dandruff Shampoo,Arnica,81,Jaborandi,458,Neem,572,Tulsi,828,Lemon,499,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Wheezal Arnica Hair N Scalp Treatment Homeopathic Medicine,Brahmi Q,142,Jaborandi,458,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Wheezal Arnica Hair N Scalp Treatment Homeopathic Medicine,Brahmi Q,142,Jaborandi,458,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Wheezal Calendula Nectar Prickly Heat Powder,Arnica Q,83,Calendula Q,180,BeberisAqui. Q,113,Cantharis Q,190,HeparSulph 3X,410,itching,456,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Wheezal Calendula Nectar Prickly Heat Powder,Arnica Q,83,Calendula Q,180,BeberisAqui. Q,113,Cantharis Q,190,HeparSulph 3X,410,itching,456,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Wheezal Calendula Nectar Prickly Heat Powder,Arnica Q,83,Calendula Q,180,BeberisAqui. Q,113,Cantharis Q,190,HeparSulph 3X,410,itching,456,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Wheezal Calendula Nectar Prickly Heat Powder,Arnica Q,83,Calendula Q,180,BeberisAqui. Q,113,Cantharis Q,190,HeparSulph 3X,410,itching,456,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Wheezal Eye Bright Eye Drop,Euphrasia off,320,Cin. maritima,223,Argentum nit,78,Acidumboricum,15,Zincumsulphuricum,874,Alcoholic content,24,inflammation,444,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Wheezal Hairex Tablet,Acidum hydroflouricum,8,Acidum phos,11,Aloe soc,31,Anantherum mur,44,Baryta carb,110,Borax,139,China officinalis,215,Mancinella,523,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Wheezal Hymusa Syrup,Bryonia Q,153,Arnica Q,83,RhusTox Q,678,Dulcamara Q,299,Ruta Q,694,Rhododendron 3X,672,gouty inflammation,374,sprain,759,myalgia,549,sciatica,711,arthritis,90,lumbago,510,lame,489,Treats rigidity,824,stiffness,765,numbness,582,aching,Cures sprain,275,rending,665,stitching pain,767
+Wheezal Jaborandi Hair Treatment Oil,Jaborandi Q,460,Brahmi Q,142,Wiesbaden 6x,863,Cantharis Q,190,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Wheezal Mel-X Melasma Cream,Alovera,36,Berberis aquifolium,122,Calendula officinalis,179,Curcuma longa,265,Ocimum sanctum,588,Santalum album,702,Thuja occidentalis,801,Alcohol content,23,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Wheezal Mel-X Melasma Tablet,Caulophyllum,200,China officinalis,215,Ferrum phosphoricum,336,Natrum hypochlorosum,559,Sepia,722,Oleum jacoris,590,Thuja occidentalis,801,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Wheezal Mel-X Melasma Tablet,Caulophyllum,200,China officinalis,215,Ferrum phosphoricum,336,Natrum hypochlorosum,559,Sepia,722,Oleum jacoris,590,Thuja occidentalis,801,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Wheezal Otorine Ear Drop,Belladonna Q,117,Mullein Q,544,toothache,810,Cures acute,269,noise painful,579,Addressesdeafness,19,humming noises,418,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Wheezal Petrolatum-W Pure Petroleum Jelly,Calendula Q,180,Maintains soft,522,Cure chapped,267,cracked skin,257,rashes,641,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
+Wheezal Scaboil,Treat scabies,812,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,#N/A,,,#N/A,,#N/A,,#N/A
