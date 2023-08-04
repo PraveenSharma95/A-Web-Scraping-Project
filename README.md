@@ -146,3 +146,21 @@ The main objective of the project was to suggest/consult the client while analys
 <br>
 <br>
 <img src="https://github.com/PraveenSharma95/A-Web-Scraping-Project/blob/main/Raw%20files/conclusion_1mg.JPG">
+<br>
+<br>
+<br>
+
+**Challenges and Learnings**
+
+o The main challenge posed by this project was to create a webpage by using HTML to show our model.
+
+o Another challenge posed by this project was to scrape the data from the TATA 1 mg's website at first, cleaned it as 
+  there were a lot of noise and redundant values in the data.
+
+o The dataset extracted contained many other Key Benefit Areas apart from the ones as asked in the requirements so became difficult 
+  to clean and work with excel. Same was the case to get the top 10 ingredients among 1500 medicines that were extracted from website 
+  as they were not ordered for which counting them became difficult.
+
+o As all of our team members are working professionals, we were finding difficulty in managing time and the time availability of each 
+  team member is different. Firstly, we brainstormed and formed a flowchart of works that helped us be on track. We allocated the work 
+  according to each person’s time availability and task priority, hence we learnt TEAM management and TIME management.
